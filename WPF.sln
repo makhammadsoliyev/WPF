@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessNumber", "GuessNumber\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList", "ToDoList\ToDoList.csproj", "{822B0504-DAF5-49B5-80F4-399FFC91725C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedCalculator", "AdvancedCalculator\AdvancedCalculator.csproj", "{098E84D6-762F-4FC3-B0DD-07FC30686647}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{822B0504-DAF5-49B5-80F4-399FFC91725C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{822B0504-DAF5-49B5-80F4-399FFC91725C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{822B0504-DAF5-49B5-80F4-399FFC91725C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{098E84D6-762F-4FC3-B0DD-07FC30686647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098E84D6-762F-4FC3-B0DD-07FC30686647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098E84D6-762F-4FC3-B0DD-07FC30686647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098E84D6-762F-4FC3-B0DD-07FC30686647}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
