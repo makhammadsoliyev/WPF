@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calendar", "Calendar\Calend
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canvas", "Canvas\Canvas.csproj", "{71DF6E7F-1B4E-4F69-B7CC-C2F69166485B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{DEFA22E3-B7C0-4386-8790-C7092CC4C2F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{71DF6E7F-1B4E-4F69-B7CC-C2F69166485B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71DF6E7F-1B4E-4F69-B7CC-C2F69166485B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71DF6E7F-1B4E-4F69-B7CC-C2F69166485B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFA22E3-B7C0-4386-8790-C7092CC4C2F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFA22E3-B7C0-4386-8790-C7092CC4C2F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFA22E3-B7C0-4386-8790-C7092CC4C2F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFA22E3-B7C0-4386-8790-C7092CC4C2F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
