@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canvas", "Canvas\Canvas.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{DEFA22E3-B7C0-4386-8790-C7092CC4C2F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickingGame", "ClickingGame\ClickingGame.csproj", "{7EB7F993-2EFB-453D-B0DE-01C665154C6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{DEFA22E3-B7C0-4386-8790-C7092CC4C2F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEFA22E3-B7C0-4386-8790-C7092CC4C2F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEFA22E3-B7C0-4386-8790-C7092CC4C2F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB7F993-2EFB-453D-B0DE-01C665154C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB7F993-2EFB-453D-B0DE-01C665154C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB7F993-2EFB-453D-B0DE-01C665154C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB7F993-2EFB-453D-B0DE-01C665154C6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
