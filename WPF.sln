@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickingGame", "ClickingGame\ClickingGame.csproj", "{7EB7F993-2EFB-453D-B0DE-01C665154C6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TickTackToe", "TickTackToe\TickTackToe.csproj", "{79F94165-E148-4973-9A94-7547AAC1275D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{7EB7F993-2EFB-453D-B0DE-01C665154C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EB7F993-2EFB-453D-B0DE-01C665154C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EB7F993-2EFB-453D-B0DE-01C665154C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79F94165-E148-4973-9A94-7547AAC1275D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F94165-E148-4973-9A94-7547AAC1275D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F94165-E148-4973-9A94-7547AAC1275D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F94165-E148-4973-9A94-7547AAC1275D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
